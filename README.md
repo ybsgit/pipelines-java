@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/yoglobant/FirstPipeline/_apis/build/status/ybsgit.pipelines-java?branchName=main)](https://dev.azure.com/yoglobant/FirstPipeline/_build/latest?definitionId=56&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
