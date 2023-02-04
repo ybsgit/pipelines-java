@@ -1,4 +1,7 @@
 [![Build Status](https://dev.azure.com/yoglobant/FirstPipeline/_apis/build/status/ybsgit.pipelines-java?branchName=main)](https://dev.azure.com/yoglobant/FirstPipeline/_build/latest?definitionId=56&branchName=main)
+
+[![Build Status](https://dev.azure.com/yoglobant/azurepipeline-practice-examples/_apis/build/status/01-Create%20your%20first%20pipeline/ybsgit.pipelines-java?branchName=main)](https://dev.azure.com/yoglobant/azurepipeline-practice-examples/_build/latest?definitionId=121&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
